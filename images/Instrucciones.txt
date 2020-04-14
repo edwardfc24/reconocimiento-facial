@@ -1,0 +1,1 @@
+Aquí van las carpetas con las imágenes para el entrenamiento. Colocar la Etiqueta como nombre de la carpeta separados por - o _
